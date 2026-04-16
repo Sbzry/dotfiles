@@ -13,3 +13,5 @@
 - app selection/taskbar
     - notes app
 - wallpaper changer
+- desktop instrument
+- merge tabs from browser that originated in different workspaces
